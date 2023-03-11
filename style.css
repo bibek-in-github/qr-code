@@ -1,0 +1,41 @@
+body{
+    background-color: hsl(212, 45%, 89%);
+}
+
+.attribution{
+    font-size: 11px; 
+    text-align: center;
+    position: relative;
+    height: 430px;
+    width: 300px;
+    left: 500px;
+    top: 100px;
+    
+    background-color: aliceblue;
+    border-radius: 15px;
+    
+    
+}
+.attribution a {
+    color: hsl(228, 45%, 44%);
+}
+
+img {
+    width: 90%;
+    margin-top: 10px;
+    border-radius: 15px;
+}
+
+.p-heading{
+    width: 80%;
+    padding: 0 10%;
+    font-weight: bold;
+    font-size: 1rem;
+}
+
+.p-content{
+    width: 90%;
+    margin-top: 15px;
+    padding: 0 5%;
+    font-size: 15px;
+}
